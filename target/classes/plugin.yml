@@ -1,0 +1,10 @@
+name: CorysLootSpawner
+main: de.coryson.corysLootSpawner.LootSpawner
+description: A simple Plugin for custom spawners
+author: Coryson
+version: 1.0
+api-version: 1.20
+commands:
+  givespawner:
+    usage: /givespawner <mob>
+    description: Gibt dir einen LootSpawner
