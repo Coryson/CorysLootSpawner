@@ -33,7 +33,7 @@ public class LootSpawnerBlock {
 
         Inventory loaded = LootSpawner.getInstance().getStorage().loadInventory(location);
         if (loaded == null) {
-            loaded = Bukkit.createInventory(new SpawnerInventoryHolder(location), 18, type.name() + " Spawner");
+            loaded = Bukkit.createInventory(new SpawnerInventoryHolder(location), 18,"§6Loot-Spawner");
         }
         inventories.put(location, loaded);
         nextDropTime = System.currentTimeMillis() + LOOT_INTERVAL_MILLIS;
