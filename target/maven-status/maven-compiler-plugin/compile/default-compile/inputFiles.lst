@@ -1,7 +1,8 @@
-C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysLootSpawner\Drop.java
-C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysLootSpawner\LootSpawner.java
-C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysLootSpawner\LootSpawnerBlock.java
-C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysLootSpawner\LootSpawnerCommand.java
-C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysLootSpawner\LootSpawnerDataStorage.java
-C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysLootSpawner\LootSpawnerListener.java
-C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysLootSpawner\SpawnerType.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\CorysSpawner.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\spawner\Command.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\spawner\Datastorage.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\spawner\Drop.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\spawner\Spawner.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\spawner\SpawnerListener.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\spawner\SpawnerType.java
+C:\Users\joelk\Desktop\CorysLootSpawner\src\main\java\de\coryson\corysSpawner\spawner\Utils.java

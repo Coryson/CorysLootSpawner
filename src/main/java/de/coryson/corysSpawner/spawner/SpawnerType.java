@@ -1,4 +1,4 @@
-package de.coryson.corysLootSpawner;
+package de.coryson.corysSpawner.spawner;
 
 import org.bukkit.Material;
 import org.bukkit.entity.EntityType;
